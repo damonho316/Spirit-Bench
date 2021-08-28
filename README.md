@@ -9,4 +9,4 @@ memory
 
 how to use 
 <------>
-Just Download both of the file and put to server and run ```bash run.sh``` the test result will be in a file call log.txt
+Just Download both of the file and put to server and run ```bash code.sh``` the test result will be in a file call log.txt

@@ -13,7 +13,7 @@ echo 處理器CPU:
 sed -n 5p /proc/cpuinfo 
 echo ------------------------------------------
 echo 內存Ram:
-sed -n 1p /proc/meninfo
+sed -n 1p /proc/meminfo
 echo ------------------------------------------
 echo ------------------------------------------
 echo 硬盤Disk: 

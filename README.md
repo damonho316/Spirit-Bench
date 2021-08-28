@@ -6,3 +6,5 @@ speedtest
 cpu model
 disk stats
 memory 
+instant deploy:
+curl https://raw.githubusercontent.com/damonho316/Spirit-Bench/main/run.sh

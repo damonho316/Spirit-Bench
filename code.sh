@@ -41,6 +41,5 @@ echo I/O:
 sysbench --test=fileio --file-test-mode=seqwr run
 echo ------------------------------------------
 echo ------------------------------------------
-echo 測試完成 test complete , result in log.txt 結果在 log.txt
+echo 測試完成 test complete
 echo ------------------------------------------
- tee log.txt

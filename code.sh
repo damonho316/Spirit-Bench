@@ -2,9 +2,13 @@ echo installing addon
 
 echo ------------------------------------------
 curl -s https://packagecloud.io/install/repositories/akopytov/sysbench/script.deb.sh | sudo bash > /dev/null 2>&1
+echo <---25%-->
 sudo apt -y install sysbench > /dev/null 2>&1
+echo <---50%-->
 sudo apt update > /dev/null 2>&1
+echo <---75%-->
 sudo apt-get install python > /dev/null 2>&1
+echo <---100%-->
 echo completed install
 echo ------------------------------------------
 echo Spirit Bench

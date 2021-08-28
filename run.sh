@@ -1,1 +1,1 @@
-bash code.sh | tee log.txt
+bash https://raw.githubusercontent.com/damonho316/Spirit-Bench/main/code.sh | tee log.txt

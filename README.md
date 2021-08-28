@@ -6,6 +6,7 @@ speedtest
 cpu model
 disk stats
 memory 
-instant deploy:
-wget https://raw.githubusercontent.com/damonho316/Spirit-Bench/main/run.sh
-bash run.sh
+
+how to use 
+<------>
+Just Download both of the file and put to server and run ```bash run.sh``` the test result will be in a file call log.txt

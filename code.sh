@@ -28,7 +28,7 @@ echo 網速speedtest-cli:
 curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -
 echo ------------------------------------------
 echo ------------------------------------------
-服務器位置 Location:
+echo 服務器位置 Location:
 curl https://ipinfo.io/what-is-my-ip
 echo ------------------------------------------
 echo ------------------------------------------

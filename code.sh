@@ -2,7 +2,7 @@ echo installing addon
 
 echo ------------------------------------------
 curl -s https://packagecloud.io/install/repositories/akopytov/sysbench/script.deb.sh | sudo bash > /dev/null 2>&1
-echo --25%-->
+echo --25%--
 sudo apt -y install sysbench > /dev/null 2>&1
 echo --50%--
 sudo apt update > /dev/null 2>&1
@@ -43,3 +43,4 @@ echo ------------------------------------------
 echo ------------------------------------------
 echo 測試完成 test complete , result in log.txt 結果在 log.txt
 echo ------------------------------------------
+| tee log.txt

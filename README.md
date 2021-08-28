@@ -7,4 +7,5 @@ cpu model
 disk stats
 memory 
 instant deploy:
-curl https://raw.githubusercontent.com/damonho316/Spirit-Bench/main/run.sh
+wget https://raw.githubusercontent.com/damonho316/Spirit-Bench/main/run.sh
+bash run.sh

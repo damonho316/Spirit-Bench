@@ -1,5 +1,4 @@
 echo installing addon
-cat README.md
 echo ------------------------------------------
 curl -s https://packagecloud.io/install/repositories/akopytov/sysbench/script.deb.sh | sudo bash > /dev/null 2>&1
 echo --25%--
